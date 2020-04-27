@@ -1,3 +1,5 @@
 # terraform-azure-simplevm
 
-Terraform module exposing a VM creation using terraform, uses the template for its contents
+## Terraform module
+
+Exposes a VM creation using terraform, uses the template from https://github.com/InfraAsCodeDemo/azure-compute-vm for the template content
